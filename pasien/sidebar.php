@@ -44,7 +44,7 @@
                     </a>
                 </li>
                <li class="nav-item">
-                    <a href="../profile.php/indek.php" class="nav-link">
+                    <a href="../profile.php" class="nav-link">
                         <i class="nav-icon fas fa-user-alt"></i>
                         <p>
                             Profile Mahasiswa
@@ -85,7 +85,7 @@
                     <a href="#" class="nav-link">
                         <i class="nav-icon fas fa-tachometer-alt"></i>
                         <p>
-                            Table Data Tambahan
+                            Table Data Unit
                             <i class="right fas fa-angle-left"></i>
                         </p>
                     </a>
@@ -105,7 +105,7 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a href="../login.php/index.php" class="nav-link">
+                    <a href="../login/index.php" class="nav-link">
                         <i class="nav-icon fas fa-user"></i>
                         <p> Logout </p>
                     </a>

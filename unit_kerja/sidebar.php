@@ -14,7 +14,7 @@
                 <img src="../dist/img/avatar4.png" class="img-circle elevation-2" alt="User Image">
             </div>
             <div class="info">
-                <a href="#" class="d-block">Yadi Adi</a>
+                <a href="#" class="d-block">Muhammad Aulia Hakim Syahputra </a>
             </div>
         </div>
 
@@ -85,7 +85,7 @@
                     <a href="#" class="nav-link">
                         <i class="nav-icon fas fa-tachometer-alt"></i>
                         <p>
-                            Table Data Tambahan
+                            Table Data Unit
                             <i class="right fas fa-angle-left"></i>
                         </p>
                     </a>
