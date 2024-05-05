@@ -15,6 +15,8 @@
     <!-- Theme style -->
     <link rel="stylesheet" href="dist/css/adminlte.min.css">
     <!-- tambahkan favicon -->
+
+    
 </head>
 
 <body class="hold-transition sidebar-mini layout-fixed">

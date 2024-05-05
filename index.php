@@ -38,6 +38,8 @@ require_once 'sidebar.php';
                         </div>
                         <div class="card-body">
                         <h4 class="text-center mt-4"><b>Cek Selalu Kesehatan Anda Di Puskesmas </b> <br><i>Sehat-Sehat Selalu</i></h4>
+                    
+                        
                         </div>
                         <!-- /.card-body -->
                         <div class="card-footer">

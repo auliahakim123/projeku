@@ -38,7 +38,7 @@ require_once 'sidebar.php';
                         </div>
                         <div class="card-body">
                             <div class="container">
-                                <h4 class="text-center mt-4">Selamat Datang Di Website Puskesmas<br />Projek Web 1 - Individu</h4>
+                                <h4 class="text-center mt-4">Selamat Datang Di Website Puskesmas<br /></h4>
                                 <div class="row justify-content-center mt-5">
                                     <div class="col-md-6">
                                         <div class="card">
@@ -47,7 +47,7 @@ require_once 'sidebar.php';
                                                     <div class="col-md-4">
                                                         <h5 class="card-title">Informasi Mahasiswa</h5>
                                                         <div class="text-center">
-                                                            <img src="dist/img/photo1.png" class="img-fluid" alt="Profile Image">
+                                                            <img src="dist/img/hakim.jpg" class="img-fluid" alt="Profile Image">
                                                         </div>
                                                     </div>
                                                     <div class="col-md-8">
